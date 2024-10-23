@@ -4,6 +4,9 @@ How do various factors related to socioeconomic and health conditions impact cou
 
 Our goal is to develop a Regression model that can predict the Life expectancy of a country based on several Physical, Social and Economical features that will be instrumental towards the decision regarding the amount of Financial Aid to be allocated for that country.  
 
+This project utilized linear regression techniques enhanced by Principal Component Analysis (PCA) alongside ridge and lasso regression to predict the financial aid allocation for nations based on socioeconomic and health factors influencing life expectancy. The analytical model facilitates targeted funding decisions by identifying countries with the greatest needs, thereby optimizing resource distribution for enhanced health outcomes.
+
+
 ![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Regression_Project_1.jpg)
 
 
