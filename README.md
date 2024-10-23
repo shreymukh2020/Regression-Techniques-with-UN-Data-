@@ -16,3 +16,6 @@ Our goal is to develop a Regression model that can predict the Life expectancy o
 ![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Feature%20Importances.jpg)
 
 
+![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Best%20Features.jpg)
+
+
