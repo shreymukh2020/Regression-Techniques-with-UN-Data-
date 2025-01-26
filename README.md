@@ -17,9 +17,11 @@ This project utilized linear regression techniques enhanced by Principal Compone
 
 ![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Regression_Project_3.jpg)
 
+![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Regression_Project_4.jpg)
+
+![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Regression_Project_5.jpg)
 
 ![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Feature%20Importances.jpg)
-
 
 ![image](https://github.com/shreymukh2020/Regression-Techniques-with-UN-Data-/blob/main/Best%20Features.jpg)
 
